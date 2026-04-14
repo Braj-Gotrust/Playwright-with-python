@@ -1,0 +1,107 @@
+Login functionality
+---------------------
+username or email [ input text]
+password [ input field text] with eye icon
+remember me [ checkbox]
+forget password button
+signin button
+
+
+========================================================
+forgot password 
+------------------
+username or email [ input text]
+Back to login button
+Submit button
+
+
+when i click on submit button then '
+You should receive an email shortly with further instructions.'
+this message we got
+
+and i recieved an email 
+'Someone just requested to change your GoTrust account's credentials. If this was you, click on the link below to reset them.
+
+Link to reset credentials
+
+This link will expire within 5 minutes.
+
+If you don't want to reset your credentials, just ignore this message and nothing will be changed.'
+
+with the link
+
+
+
+ND NOW WHEN i click on 'Link to reset credentials' it then 
+
+
+Update password
+You need to change your password.
+New Password
+Confirm password
+Sign out from other devices
+
+this screen visibible 
+
+with submit button
+
+note password have eye button as well
+
+========================================================
+
+
+SIgn out 
+-----------
+when user click on profile then it opens my account  and profile settinle , organization, signout button
+
+when user click on sign out btton 
+then it will redirect on Logout confirmation screen is visble
+
+and now when i click on logout button then user shoul be able to logout and 
+if user click on cancel button then user should redired on home page.
+
+
+steps-After login view home page
+MY Account -> 
+profile setting -> 
+Edit Profile [first name, last name,email,phone] It is a editable input field and company & address is not editable 
+cancel OR save ->
+confirmation window -> YES OR No
+Change passwrod -> [old password, new password, confirm new password] It is a input fields
+save changes
+
+now after login with valid cridencial I will redirect to the home page. You to just focus on the navbar, I click one the profile dropdown menu then visible MY ACCOUNT to visible me three button link [profile settings, organization, sign out].
+now I did click on the PROFILE SETTING link after that I redirect to profile page, this page is static text , if I want to edit profile information then you click on EDIT PROFILE button after that three input fields are enable. we can edit only three input fields[First name, Last name and photo] after that we click on cancel or save button . if we are do click on save button so that show on confirmation save changes "Are you sure you want to save changes". if you want to give confirmation then click on "yes" button otherwise click on "NO" button.  after that you will redirect to profile page .
+
+now you want to "change password " then you click on change password button.  
+
+you will show 3 input fields with eye icons [old password, new password, confirm new password ] these fields are follow instruction to given by the image(image i will provide) then click on "save changes " button.
+
+
+now you are click on "organization" button link then you will to redirect to the organization page.
+
+
+and NOTE- do not write uses case of the "sign out" functionality. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+After login, now I am redirect to home page after that I show side bar in home page now I did click on [Profile Configuration] dropdown menu after that I click on [Organization Structure] after that I see four button [General, Structure, Locations, Audit Log] when i click on [General] button then i did show some information like a [organization name, email, admin name, jurisdiction/country/region, industry, business process, registration details, phone number , address, regulations] That is static to filled by the admin. so I will provide screenshot of my organization structure
+
+After that i click one [structure] button 

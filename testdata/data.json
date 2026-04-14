@@ -1,0 +1,22 @@
+[
+  {
+    "email": "braj.dpo@yopmail.com",
+    "password": "121",
+    "validity": "valid"
+  },
+  {
+    "email": "braj.dpo@yopmail.com",
+    "password": "121323",
+    "validity": "invalid"
+  },
+  {
+    "email": "braj.dp@yopmail.com",
+    "password": "1217667",
+    "validity": "invalid"
+  },
+  {
+    "email": "",
+    "password": "",
+    "validity": "invalid"
+  }
+]

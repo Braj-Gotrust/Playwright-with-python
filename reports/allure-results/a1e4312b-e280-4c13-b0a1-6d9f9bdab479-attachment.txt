@@ -1,0 +1,23 @@
+
+Total legal entities:  21
+GoTrust
+braj 2
+a
+braj 3
+A1
+Appvin 5
+appvin 5 child entity
+aa
+Appvin 4
+Appvin 2
+test 4
+test 2
+test 6
+Appvin 1
+Appvin 6
+Appvin 3
+Braj Pvt Ltd 1
+test 1
+braj 1
+test 3
+test 5

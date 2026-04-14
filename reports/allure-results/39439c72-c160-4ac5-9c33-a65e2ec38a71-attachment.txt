@@ -1,0 +1,11 @@
+
+ROPA TEXT :  Ropa Registry
+
+TOtal number of element :  57
+selected date ======> :  May 25, 2026
+
+Total number of Assignee :  44
+
+Selected index number: 29
+
+Total number of level 1 reviewer :  44

@@ -1,0 +1,34 @@
+
+Total number of dropdown elements : 29
+
+All dropdown element text list  : ['Automaton Tester', 'Chief Executive Officer', 'Chief Financial Officer', 'Chief Technical Officer', 'Content Specialist', 'Customer Success Manager', 'Database Administrator', 'Finance Manager', 'Financial Analyst', 'Head of Support', 'HR Associate', 'HR Manager', 'IT Manager', 'Network Administrator', 'Payroll Administrator', 'Pre-Sales Coordinator', 'prompt engineer', 'QA Engineer', 'QA Lead', 'qwer', 'rsjsrii', 'Sales Representative', 'Social Media Marketer', 'Software Architect', 'Software Engineer', 'Support Specialist', 'Updated Title 1775477640793', 'VP - Client Services', 'VP - Sales & Marketing']
+Automaton Tester
+Chief Executive Officer
+Chief Financial Officer
+Chief Technical Officer
+Content Specialist
+Customer Success Manager
+Database Administrator
+Finance Manager
+Financial Analyst
+Head of Support
+HR Associate
+HR Manager
+IT Manager
+Network Administrator
+Payroll Administrator
+Pre-Sales Coordinator
+prompt engineer
+QA Engineer
+QA Lead
+qwer
+rsjsrii
+Sales Representative
+Social Media Marketer
+Software Architect
+Software Engineer
+Support Specialist
+Updated Title 1775477640793
+VP - Client Services
+VP - Sales & Marketing
+matching successfully : 
