@@ -1,0 +1,5 @@
+
+TOtal number of legal entity :  72
+Submit for review failed — retrying...
+Submit for review submitted successfully
+Review submitted successfully

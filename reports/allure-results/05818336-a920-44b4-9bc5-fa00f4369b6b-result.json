@@ -1,0 +1,1 @@
+{"name": "test_coll_login[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1777294223486, "stop": 1777294239702, "uuid": "5ca790cf-deb8-4429-8eb8-097c824ae57a", "testCaseId": "97ea1647363e0ab773ec56f44e69ade1", "fullName": "gotrust_directory.test_other#test_coll_login", "titlePath": ["gotrust_directory", "test_other.py"]}

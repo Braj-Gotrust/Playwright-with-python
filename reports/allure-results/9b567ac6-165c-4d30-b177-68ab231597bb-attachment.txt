@@ -1,0 +1,12 @@
+
+TOtal number of legal entity :  64
+
+Total number of vendor :  10
+
+TOtal number of legal entity :  63
+
+Total number of Assignee :  49
+
+Selected index number: 47
+
+Total number of reviewer :  49

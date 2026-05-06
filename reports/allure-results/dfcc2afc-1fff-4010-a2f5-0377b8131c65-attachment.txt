@@ -1,0 +1,4 @@
+
+Total number of vendor :  10
+
+TOtal number of legal entity :  1

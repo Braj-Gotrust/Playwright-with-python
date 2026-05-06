@@ -1,0 +1,5 @@
+
+ROPA TEXT :  TPRA
+<Locator frame=<Frame name= url='https://sandbox.gotrust.tech/vendor-risk-assessment/dashboard'> selector='tbody tr td:first-child span'>
+
+Total number of vendor :  0

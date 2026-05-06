@@ -1,0 +1,14 @@
+
+Category name : Select Cookie Category
+
+Category name : Essential
+
+Category name : Advertising
+
+Category name : Analytics
+
+Category name : Category 1
+
+Category name : Category 2
+
+ select Category name : Category 2

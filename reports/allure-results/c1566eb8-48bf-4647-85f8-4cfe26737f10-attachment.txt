@@ -1,0 +1,6 @@
+
+TOtal number of legal entity :  67
+
+Total number of Assignee :  13
+
+Selected index number: 12

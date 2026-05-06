@@ -1,0 +1,16 @@
+
+ total yes:  6
+
+ value of i : 0
+
+ total yes:  6
+
+ value of i : 1
+
+ total yes:  6
+
+ value of i : 2
+
+ total yes:  6
+
+ value of i : 3

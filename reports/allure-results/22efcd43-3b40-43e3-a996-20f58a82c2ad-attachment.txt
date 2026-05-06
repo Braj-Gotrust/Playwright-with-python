@@ -1,0 +1,4 @@
+
+Total number of vendor :  10
+
+Total number of yes button :  8

@@ -1,0 +1,4 @@
+
+TOtal number of legal entity :  68
+
+Total number of Assignee :  15

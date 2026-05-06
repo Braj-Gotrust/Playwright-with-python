@@ -1,0 +1,4 @@
+
+TOtal number of legal entity :  71
+DPIA assessment submitted successfully for the Review
+Submit failed ❌ — Retrying...

@@ -1,0 +1,4 @@
+
+ total yes:  6
+
+ value of i : 5
