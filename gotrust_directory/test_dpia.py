@@ -28,7 +28,7 @@ def test_ropa(email, password, validity, page: Page):
         dpia_title = page.locator("h1:has-text('Data Protection Impact Assessment')")
         expect(dpia_title).to_be_visible(timeout=15000)
 
-        assessment_name = "DPIA 112"
+        assessment_name = "DPIA 113"
         assessment_description = "TEST"
 
 

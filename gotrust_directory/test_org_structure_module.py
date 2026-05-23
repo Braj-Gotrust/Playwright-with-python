@@ -2,16 +2,16 @@ import re
 import pytest
 from playwright.sync_api import expect, Page
 
-login_test_data = [("braj.dpo@yopmail.com", "121", "valid")]
+login_test_data = [("braj.dpo@yopmail.com", "Test@123", "valid")]
 
 @pytest.mark.parametrize("email,password,validity", login_test_data)
 def test_login_data_driven(email, password, validity, page: Page):
     page.goto("https://preprod.gotrust.tech/home")
 
     # Login
-    page.get_by_role("textbox", name="Username or email").fill(email)
-    page.get_by_role("textbox", name="Password").fill(password)
-    page.get_by_role("button", name="Sign In").click()
+    page.locator("#username").fill(email)
+    page.locator("#password").fill(password)
+    page.locator("button:has-text('Sign In')").click()
 
     if validity == "valid":
         # Wait for dashboard load
@@ -41,8 +41,8 @@ def test_login_data_driven(email, password, validity, page: Page):
         page.get_by_role("option", name="Legal Entity").click()
 
         # ✅ USE PLACEHOLDER / LABEL (NOT ID)
-        page.get_by_placeholder("Enter Legal Entity name").fill("aaa test 5")
-        page.get_by_placeholder("Brief description").fill("test1")
+        page.get_by_placeholder("Enter Legal Entity name").fill("aaa test 6")
+        page.get_by_placeholder("description").fill("test1")
         page.get_by_placeholder("Full company address").fill("noida1")
 
         # Country dropdown
@@ -59,7 +59,7 @@ def test_login_data_driven(email, password, validity, page: Page):
         page.locator("div[data-value='Close']").click()
         # select dop
         page.locator("//span[normalize-space()='Select']").click()
-        page.get_by_role("presentation").nth(0).click()
+        page.get_by_role("presentation").nth(1).click()
 
         # Click submit
         page.locator("button:has-text('Create Legal Entity')").click()
